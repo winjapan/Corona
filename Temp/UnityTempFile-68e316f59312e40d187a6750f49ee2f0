@@ -303,4 +303,5 @@
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
 "Assets/Blue Cartoon UI/Demo_Assets/scripts/GUI_Demo.cs"
+"Assets/PlayerController.cs"
 "Assets/PSD Logo Templates/Sample/IconPreview.cs"
