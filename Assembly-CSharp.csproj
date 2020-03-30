@@ -61,9 +61,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Blue Cartoon UI\Demo_Assets\scripts\GUI_Demo.cs" />
+    <Compile Include="Assets\InfectedpersonController.cs" />
     <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\PSD Logo Templates\Sample\IconPreview.cs" />
     <None Include="Assets\PSD Logo Templates\Fonts\Baloo\OFL.txt" />
+    <None Include="Assets\Simple city plain\Read_me.txt" />
     <None Include="Assets\PSD Logo Templates\Fonts\Passion_One\OFL.txt" />
     <None Include="Assets\Assets MOOD WARE\_MW Skybox\Documentation\Documentation City Street Skyboxes Vol. 1.txt" />
     <None Include="Assets\PSD Logo Templates\Fonts\Changa_One\OFL.txt" />

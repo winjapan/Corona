@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{176B8909-8771-001B-E6EA-210CEA8E3F6C}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/InfectedpersonController.cs">
     <Files>
-      <File FileName="Assets/PlayerController.cs" Line="21" Column="24" />
+      <File FileName="Assets/PlayerController.cs" Line="31" Column="40" />
+      <File FileName="Assets/InfectedpersonController.cs" Line="7" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
