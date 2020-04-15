@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Item
+  - Medicine
+  - Immunity
+  - Artificial lung
+  - Dense contact
+  - Don'tTouchMe
+  - Hand
   layers:
   - Default
   - TransparentFX
@@ -14,8 +21,8 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
+  - Player
+  - Don't touch me
   - 
   - 
   - 
