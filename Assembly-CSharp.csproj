@@ -61,9 +61,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Blue Cartoon UI\Demo_Assets\scripts\GUI_Demo.cs" />
-    <Compile Include="Assets\InfectedpersonController.cs" />
-    <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\PSD Logo Templates\Sample\IconPreview.cs" />
+    <Compile Include="Assets\Script\AbiganCount.cs" />
+    <Compile Include="Assets\Script\AbiganCountDirector.cs" />
+    <Compile Include="Assets\Script\DamageHP.cs" />
+    <Compile Include="Assets\Script\DoNotTouch.cs" />
+    <Compile Include="Assets\Script\InfectedpersonController.cs" />
+    <Compile Include="Assets\Script\ItemController.cs" />
+    <Compile Include="Assets\Script\ItemCounter2.cs" />
+    <Compile Include="Assets\Script\PlayerController.cs" />
+    <Compile Include="Assets\Script\StopMotion.cs" />
+    <Compile Include="Assets\Simple Health Bar\_Asteroids Example\Scripts\AsteroidController.cs" />
+    <Compile Include="Assets\Simple Health Bar\_Asteroids Example\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Simple Health Bar\_Asteroids Example\Scripts\HealthPickupController.cs" />
+    <Compile Include="Assets\Simple Health Bar\_Asteroids Example\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Simple Health Bar\_Asteroids Example\Scripts\PlayerHealth.cs" />
+    <Compile Include="Assets\Simple Health Bar\Scripts\SimpleHealthBar.cs" />
+    <None Include="Assets\Simple Health Bar\README.txt" />
     <None Include="Assets\PSD Logo Templates\Fonts\Baloo\OFL.txt" />
     <None Include="Assets\Simple city plain\Read_me.txt" />
     <None Include="Assets\PSD Logo Templates\Fonts\Passion_One\OFL.txt" />
